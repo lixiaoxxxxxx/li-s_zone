@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/lixiao/"
+http_images_path = "/lixiao/images"
+http_fonts_path = "/lixiao/fonts"
+css_dir = "public/lixiao/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
